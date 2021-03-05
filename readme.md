@@ -1,6 +1,12 @@
 Feature Importance Calculator
 ========
+This project helps calculate the feature importance of energy burden. In the US, there are several factors that influence the energy burden. In this project, I have come up with predictors and the relative role they play in determining how much energy burden, an area (tract) faces.
+
 The software is used to train, test and select the best features necessary to predict the energy burden.
+
+The main presentation is in the main.ipynb/main.html jupyter notebook and it will also have results for Colorado and Georgia notebooks in the last cell.
+
+Additionally, I also packaged the assignment into an app for better modularization and readability that you can be run via instructions below:
 
 # Installation
 * cd to the project directory  
