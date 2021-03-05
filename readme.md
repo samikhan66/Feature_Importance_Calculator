@@ -1,4 +1,4 @@
-Greenlink Feature Importance Calculator
+Feature Importance Calculator
 ========
 The software is used to train, test and select the best features necessary to predict the energy burden.
 
