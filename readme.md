@@ -1,6 +1,6 @@
 Feature Importance Calculator
 ========
-This project helps calculate the feature importance of energy burden. In the US, there are several factors that influence the energy burden. In this project, I have come up with predictors and the relative role they play in determining how much energy burden, an area (tract) faces.
+This project helps calculate the feature importance of energy burden. In the US, there are several factors that influence the energy burden. In this project, I have come up with predictors and the relative role they play in determining how much energy burden an area (census tract) faces.
 
 The software is used to train, test and select the best features necessary to predict the energy burden.
 
